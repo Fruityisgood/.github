@@ -1,1 +1,2 @@
-# Some stuff
+# Github profile
+Github profile for Nether Quest
